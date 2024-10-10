@@ -34,7 +34,7 @@ nav_order: 1
 ## 编程
 
 ### Vim
-- Practical Vim 练习题 <span class="label label-yellow">暂缺</span>
+- [Practical Vim 练习题](./Vim/the-vim-wav.html)
 
 ### Git
 - Git基础命令 <span class="label label-yellow">暂缺</span>

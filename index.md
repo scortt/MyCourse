@@ -14,11 +14,11 @@ nav_order: 1
 - [Word作业](./Microsoft/Word/homework.html)
 
 ### Excel
-- Excel基础教程 {: .label .label-yellow } 暂缺
-- Excel高级函数 {: .label .label-yellow } 暂缺
+- Excel基础教程 <span class="label label-yellow">暂缺</span>
+- Excel高级函数 <span class="label label-yellow">暂缺</span>
 
 ### PowerPoint
-- PowerPoint设计技巧 {: .label .label-yellow } 暂缺
+- PowerPoint设计技巧 <span class="label label-yellow">暂缺</span>
 
 ## Apple
 
@@ -26,24 +26,24 @@ nav_order: 1
 - [macOS 基础使用检查作业](./Apple/MacOS/homework.html)
 
 ### Pages
-- Pages入门指南 {: .label .label-yellow } 暂缺
+- Pages入门指南 <span class="label label-yellow">暂缺</span>
 
 ### Numbers
-- Numbers数据分析 {: .label .label-yellow } 暂缺
+- Numbers数据分析 <span class="label label-yellow">暂缺</span>
 
 ## 编程
 
 ### Vim
-- Practical Vim 练习题 {: .label .label-yellow } 暂缺
+- Practical Vim 练习题 <span class="label label-yellow">暂缺</span>
 
 ### Git
-- Git基础命令 {: .label .label-yellow } 暂缺
-- Git分支管理 {: .label .label-yellow } 暂缺
+- Git基础命令 <span class="label label-yellow">暂缺</span>
+- Git分支管理 <span class="label label-yellow">暂缺</span>
 
 ## 其他资源
 
-- 学习方法论 {: .label .label-yellow } 暂缺
-- 时间管理技巧 {: .label .label-yellow } 暂缺
+- 学习方法论 <span class="label label-yellow">暂缺</span>
+- 时间管理技巧 <span class="label label-yellow">暂缺</span>
 
 ---
 

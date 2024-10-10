@@ -1,3 +1,10 @@
+---
+layout: default
+title: macOS 基础使用检查作业
+parent: Apple
+grand_parent: 学习资料索引
+---
+
 # macOS 基础使用检查作业
 
 ## 作业概览
